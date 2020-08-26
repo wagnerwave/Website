@@ -65,7 +65,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8.5)
   jekyll-feed (~> 0.12)
   jekyll-shell-theme
   minima (~> 2.5)
