@@ -23,12 +23,15 @@ email: alexandre1.wagner@epitech.eu
 description: >- # this means to ignore newlines until "baseurl:"
   wagnerwave - Webiste & Blog.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://wagnerwave.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wagnerwave.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: //
 github_username:  wagnerwave
 # Build settings
-theme: jekyll-shell-theme
-plugins:
+remote-theme: "tareqdandachi/jekyll-shell-theme"
+plugins: 
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-feed
 
 # Exclude from processing.
