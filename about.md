@@ -4,16 +4,31 @@ title: about-me
 permalink: /about-me
 permalink_name: ":squirrel:about-me"
 ---
+![photo](/assets/photo.png) 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Who Am i ?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm Alexandre Wagner, French IT student and assistant pedagogique at Epitech Rennes.
+I'm passionate by informatique, cyber-security and underground culture.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Huge fan of **Do It Yourself** and concept of hacking (Understand how a mechanism works, in order to be able to tinker with it to divert it from its original function.)
 
+### Somes randoms fact ?
 
-[jekyll-organization]: https://github.com/jekyll
+* i'm dyslexic.
+* i'm form Alsace.
+
+### Links :
+
+* :skull: [root-me](https://www.root-me.org/W4gl-l3R) : Website with cyber-security challenge.
+* :movie_camera: [twitch](https://www.twitch.tv/wagneritek/): sometimes (rarely) i'm streaming.
+* :octocat: [github](https:://github.com/wagnerwave) : on my github on can found all my projects.
+
+## Bucket list
+*List of stuff i want to do in my life.*
+
+* Do wild camping with my father.
+* Make a song.
+* Have a aestitic statue.
+* Visit japan.
+* I have not finish ... [To Do] 
