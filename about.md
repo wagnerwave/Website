@@ -29,6 +29,6 @@ Huge fan of **Do It Yourself** and concept of hacking (Understand how a mechanis
 
 * Do wild camping with my father.
 * Make a song.
-* Have a aestitic statue.
+* Have an aestetic statue.
 * Visit japan.
 * I have not finish ... [To Do] 
