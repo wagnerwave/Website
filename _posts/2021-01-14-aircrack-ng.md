@@ -7,7 +7,7 @@ title:  "How to use aircrack-ng for bruteforce Wi-fi WPA password"
 
 # Disclaimer
 
-Tout ceci est a un but purment éducatif, rentré dans un système informatique sans l'authorisation de son propriétaire est interdit par la loi française. 
+Tout ceci est a un but purement éducatif, rentré dans un système informatique sans l'authorisation de son propriétaire est interdit par la loi française. 
 
 Bon tutoriel.
 
@@ -74,8 +74,8 @@ Nous allons utiliser l'outil 'airmon-ng' qui permet justement de changer la cart
 ```
 root@yourid:~$ airmon-ng start [nom de la carte wifi]
 ```
-pro tips: il est possible que cet commande ne marche pas, plusieurs possibilité: 
- - le message : Run it as root, s'affiche il faut donc avoir les droit super utilisateur.
+pro tips: il est possible que cette commande ne marche pas, plusieurs possibilités: 
+ - le message : Run it as root, s'affiche il faut donc avoir les droits super utilisateur.
  - un message d'aide s'affiche : vous n'avez surment pas mis le bon nom de carte wifi
  - un message d'erreur s'affiche : il se peut que des processus peuvent perturber l'opération, dans ce cas il faut faire la commande *airmong-ng check kill*
  - ça ne marche pas, il est possible que votre carte wifi n'est pas compatible avec le mode monitor
@@ -138,7 +138,7 @@ Le Handshake est l'échange de validation entre le client et le routeur.
 Nous allons utilisez airplay-ng pour injecter des paquets a une ou plusieurs machines sur le réseaux pour les forcer à se déconnecter (Attaque par déni de service).
 
 ```
-root@yourid:~$ aireplay-ng --deauth 0 –a [BSSID de votre victime] -c [Adress MAC d'un apareil connecté au réseaux de la victime] [nom de votre carte wifi]​
+root@yourid:~$ aireplay-ng --deauth 0 –a [BSSID de votre victime] -c [Adress MAC STATION] [nom de votre carte wifi]​
 ```
 Quand la machine victime va se reconnecter aux réseaux automatiquement vous allez récuperer le handshake.
 Une fois l'attaque lancé vous pouvez la stopper quand vous le désirez.
@@ -177,5 +177,6 @@ Voici une méthode pour crackez les mots de passes wifi, en informatique rien n'
 
 Merci beaucoup d'avoir lu mon tutoriel, j'éspere que ça vous à plus.
 
-Si vous voyez des fautes d'orthographe, ou autre, n'hésitez pas à m'envoyer un mail avec la correction :smiley:
+Si vous voyez des fautes d'orthographe, ou autre, n'hésitez pas à m'envoyer un mail avec la correction 
+ou faire un pull requests :smiley:
 
