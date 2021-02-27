@@ -23,12 +23,3 @@ Huge fan of **Do It Yourself** and concept of hacking (Understand how a mechanis
 * :skull: [root-me](https://www.root-me.org/W4gl-l3R) : Website with cyber-security challenge.
 * :movie_camera: [twitch](https://www.twitch.tv/wagneritek/): sometimes (rarely) i'm streaming.
 * :octocat: [github](https:://github.com/wagnerwave) : on my github on can found all my projects.
-
-## Bucket list
-*List of stuff i want to do in my life.*
-
-* Do wild camping with my father.
-* Make a song.
-* Have an aestetic statue.
-* Visit japan.
-* I have not finish ... [To Do] 
